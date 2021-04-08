@@ -1,0 +1,27 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: black;
+    font-family: 'Montserrat';
+}
+.navbar img{
+    height: 50px;
+}
+
+.carousel-item {
+    height: 100vh;
+}
+.carousel-item img{
+    object-fit: cover;
+    height: 100%;
+}
+.card img{
+    object-fit: cover;
+    object-position: center;
+    height: 180px;
+    } 
+
+hr{
+    border-width: 3px;
+}
